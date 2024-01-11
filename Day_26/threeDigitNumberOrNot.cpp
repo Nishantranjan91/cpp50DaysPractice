@@ -10,4 +10,4 @@ int main(){
     else{
         cout<<"given number is not a three digit number";
     }
-}  
+} 
