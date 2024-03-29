@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int gcd(int a, int b){
     int hcf =1;
     for(int i=1; i<=min(a,b); i++){
