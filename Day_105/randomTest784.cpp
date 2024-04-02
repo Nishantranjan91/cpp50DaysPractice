@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int*ptr;
-    cout<<ptr;
+    int x;
+    cout<<sizeof(x);
+
 }
