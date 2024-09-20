@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    bool x=false;
-    cout<<x+8;
-} 
+    int x;
+    cin>>x;
+    cout<<x/2;
+}
