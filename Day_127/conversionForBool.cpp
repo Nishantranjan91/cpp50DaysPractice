@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
     bool x=false;
-    cout<<x;
+    cout<<x+8;
 }
